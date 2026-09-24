@@ -1,0 +1,10 @@
+# youTUbe-FIx
+
+YouTube тормозит из‑за DPI. youTUbe-FIx обходит это на Windows 10/11 одним .bat файлом.
+
+YouTube тормозит из‑за DPI. youTUbe-FIx обходит это на Windows 10/11 одним .bat файлом. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/Inertiaenspike27/youTUbe-FIx/releases/latest
+Код: https://github.com/Inertiaenspike27/youTUbe-FIx
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/Inertiaenspike27/youTUbe-FIx
